@@ -25,5 +25,16 @@ If you want to type "\*" on its own, you need to lead it with \\
 
 You can combine italics and bold by using combination of underscores and asterisk:  _**I need caffeine**_
 
+# Line Ruling
+
+Using minus or underscore signs: at least three minus signs or underscore signs
+
+____
+----
+
+
+
+
+
 
 
