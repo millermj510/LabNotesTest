@@ -33,8 +33,24 @@ ____
 ----
 
 
+# Quotes and Code Blocks
+
+## Quotes
+To add quotes use an arrow sign (greater than) >
+> The dishes are done, man
+
+This is a multi-line quote where you have to put a blank spaced line between your lines of text if you dont want it to all end up on the same line together
+> Yup its still happening
+
+> and it continues
 
 
 
+## Code Blocks
 
+To make a code block in your text, use three backticks (symbol on same key as the tilde): 
+```
+install_packages("blergh")
+```
 
+You can also have does within your text like this with one backtick: `echo hello world`
