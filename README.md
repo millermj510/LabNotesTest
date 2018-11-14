@@ -54,3 +54,17 @@ install_packages("blergh")
 ```
 
 You can also have does within your text like this with one backtick: `echo hello world`
+
+## Tables
+
+You can make simple tables by using pipe symbol and minus signs: | -
+
+| column 1 | column 2 | column 3|
+|:---------|:--------:|--------:|
+| item 1   | item 2   | item 3  |
+|**bold**  |*italics* | `code`  |
+
+the colon placements align the text within the table boxes for that column
+
+
+
