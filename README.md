@@ -104,4 +104,21 @@ involves minus, square brackets with a space between the brackets, then space th
  
  
 
+## Links and Images
+
+You can link stuff to your document like this: square bracket, curly bracket: [Google](https://google.com)
+
+[etherpad](https://pad.carpentries.org/2018-11-13-otago-dc)
+
+
+To add an image use an exclamation before a link:
+
+![boxer puppy](https://cdn1-www.dogtime.com/assets/uploads/gallery/boxer-puppies/boxer-puppy-1.jpg)
+
+
+
+
+
+
+
 
