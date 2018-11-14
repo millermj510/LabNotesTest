@@ -63,8 +63,45 @@ You can make simple tables by using pipe symbol and minus signs: | -
 |:---------|:--------:|--------:|
 | item 1   | item 2   | item 3  |
 |**bold**  |*italics* | `code`  |
+|HUUUUUUGGGEEE THING HERE|  something else  | your mom  |
 
 the colon placements align the text within the table boxes for that column
 
+
+## Item Lists
+
+### Ordered Lists
+
+1. This is the first thing
+1. This is the second thing
+1. This is the third thing in a list
+This is only useful for when you want to reorder things in  a list and you don't have to renumber anything. so i guess it could be useful for these times
+
+
+1. Follow this
+    1. four spaces for a subset item
+1. maybe?
+
+
+## Unordered Lists
+Use an asterisk or minus sign * or - 
+* thing 1
+* thing 2
+- thing 3
+but it sees the different symbols as meaning you are starting a new list, so seaparated those out
+
+for sublist add four spaces before the symbol
+* Shopping List
+    * eggs
+    * bacon
+
+
+## Check List
+involves minus, square brackets with a space between the brackets, then space then whatever text you want
+ - [ ] pay your rent
+ - [ ] call for electrical hookup 
+ - [X] eat dinner
+ 
+ 
 
 
